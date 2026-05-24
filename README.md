@@ -4,7 +4,7 @@ IGloRS framework is used for automatic text-to-gloss translation via GUI interfa
 
 ## Functional method
 The functional method scheme is provided here:
-![Link](images\\functional_method_scheme.jpg)
+![Link](images/functional_method_scheme.jpg)
 
 ## Experiments
 ### Training arguments for encoder-decoder models are shown here: 
