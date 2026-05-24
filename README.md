@@ -4,10 +4,10 @@ IGloRS framework is used for automatic text-to-gloss translation via GUI interfa
 
 ## Functional method
 The functional method scheme is provided here:
-[Link](images\IGloRS functional method.jpg)
+![Link](images\IGloRS functional method.jpg)
 
 ## Experiments
-1. Training arguments for encoder-decoder models are shown here: 
+### Training arguments for encoder-decoder models are shown here: 
 
 | Hyperparameter                 | Value |
 |--------------------------------|-------|
@@ -17,7 +17,7 @@ The functional method scheme is provided here:
 | Learning rate                  | 2e-5  |
 | Optimizer                      | Adafactor |
 
-2. Experimental results with various encoder-decoder models are provided here:
+### Experimental results with various encoder-decoder models are provided here:
 
 | Model                              | BLEU-1 | BLEU-2 | BLEU-3 | BLEU-4 |
 |-------------------------------------|--------|--------|--------|--------|
