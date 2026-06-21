@@ -3,9 +3,6 @@ from sacrebleu.metrics import CHRF
 from datasets import load_dataset
 
 # nltk.download("popular")
-
-def comet_metric_evaluation():
-    
     
 def chrf_metric_evaluatuion():
     dataset = load_dataset("Arseney/parallel_corpus_russian_rsl_glosses")
